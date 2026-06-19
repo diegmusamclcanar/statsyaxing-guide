@@ -1,2 +1,14 @@
 # statsyaxing-guide
-HTML page archive and documentation
+
+发布页面归档目录
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
